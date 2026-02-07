@@ -1,6 +1,6 @@
 # NOTES ABOUT THE USER
 
-This file is used to store useful information about the user.
+This file is used to store useful information about the user. Never store credentials or sensitive information in this file.
 
 ---
 
